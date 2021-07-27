@@ -1,0 +1,124 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+time,
+mark,
+audio,
+video,
+details,
+summary {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  position: relative;
+  width: 100%;
+  font-family: -apple-system-font, 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  -webkit-user-select: none;
+  background: transparent;
+  -webkit-user-drag: none;
+}
+
+html {
+  height: 100%;
+  overflow: auto;
+}
+
+body {
+  min-height: 100%;
+}
+
+button,
+input {
+  font-family: -apple-system-font, 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+}
+
+a {
+  color: #0079ff;
+  text-decoration: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+i {
+  font-style: normal;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-focus-ring-color: transparent;
+  outline: none;
+}
+
+.hide {
+  display: none;
+}
+
+p,
+div {
+  font-size: 14px;
+}
